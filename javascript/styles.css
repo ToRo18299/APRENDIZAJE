@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+  margin: 20px;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.form {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+  font-size: 1em;
+}
+
+button {
+  padding: 8px 12px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  padding: 4px 0;
+}
